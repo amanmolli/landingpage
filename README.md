@@ -1,2 +1,1 @@
-# landingpage
-Aman Molli Landing Page
+# Aman Molli Landing Page
